@@ -1,0 +1,49 @@
+.nosotros{
+    text-align: center;
+    color:  $granite-gray;
+  }
+  
+  .nosotros__container{
+    width: 100%;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #E56353;
+     margin-top: 580px;
+      }
+  
+  .nosotros__title{
+    font-family: $raleway;
+    font-size: $large;
+    font-weight: $bold;
+    padding-top: 14px;
+    color:$white;
+
+  }
+
+  .nosotros__img {
+    padding-top: 60px;
+    width: 30vw;
+  }
+
+  .nosotros__subtitle{
+    font-family: $raleway;
+    font-size: $large;
+    font-weight: $bold;
+    color: $granite-gray;
+    padding-top: 40px;
+    margin: 35px;
+    }
+  
+  .nosotros__p{
+    font-family: $raleway;
+    font-size: $medium;
+    padding-bottom: 1rem;
+    color: $granite-gray;
+  }
+  
+  .nosotros__p--regular{
+     font-weight: $regular;
+     color: $granite-gray;
+  }

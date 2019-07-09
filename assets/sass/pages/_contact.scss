@@ -1,0 +1,22 @@
+.contact{
+
+    text-align: center;
+    color: $white;
+    padding-top: 1363px;
+}
+
+.contact__container{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #E56353;
+    margin-top: 300px;
+
+}
+
+.contact__title{
+    font-size: $large;
+    font-family: $raleway;
+}

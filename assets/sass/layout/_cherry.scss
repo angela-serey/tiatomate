@@ -1,0 +1,33 @@
+.cherry{
+    background-color: $white;
+    text-align: center;
+    color: $granite-gray;
+  }
+  
+  .cherry__container{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+      }
+  
+  .cherry__img {
+    width: 50vw;
+    padding-top: 4rem;
+  }
+  
+  .cherry__title{
+    font-family: $raleway;
+    font-size: $large;
+  }
+  
+  .cherry__p{
+    font-family: $raleway;
+    font-size: $medium;
+    padding-bottom: 1rem;
+  }
+  
+  .caja__p--bold{
+     font-weight: $bold;
+  }

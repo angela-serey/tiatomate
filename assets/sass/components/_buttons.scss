@@ -1,0 +1,15 @@
+.button {
+    width: 160px;
+    height: 50px;
+    border-radius: 30px;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $medium;
+    color: #91918D;
+
+    &:hover {
+        background-color: $snow; 
+        color: $gray;
+    }
+}
+
